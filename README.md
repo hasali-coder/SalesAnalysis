@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook that demonstrates a step-by-step app
 
 ## Contents
 - **sales_data.csv**:  dataset used for the analysis.
-- **Sales_Analysis.ipynb**: Jupyter Notebook containing the Python code for EDA and Predictive Modeling.
+- **Sales_Data_Analysis.ipynb**: Jupyter Notebook containing the Python code for EDA and Predictive Modeling.
 
 ## How to Use
 Follow these steps to use the notebook:
